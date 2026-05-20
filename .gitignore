@@ -24,3 +24,6 @@ goals/
 
 # Profiling
 *.dat
+
+# Datasets 
+recordings/
